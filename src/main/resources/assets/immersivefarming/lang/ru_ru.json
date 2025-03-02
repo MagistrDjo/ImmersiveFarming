@@ -1,0 +1,28 @@
+{
+  "block.immersivefarming.soil": "Soil",
+  "block.immersivefarming.sprinkler": "Sprinkler",
+  "block.immersivefarming.sprinkler_extended": "High Pressure Sprinkler",
+  "block.immersivefarming.dead_crop": "Dead Crop",
+
+  "itemGroup.immersivefarmingtab": "Immersive Farming",
+  "item.immersivefarming.treated_water_bucket": "Treated Water Bucket",
+  "item.immersivefarming.compost": "Компост",
+
+  "fluid.immersivefarming.treated_water_fluid": "Treated Water",
+  "fluid.immersivefarming.wet_matter_fluid": "Green Material",
+  "fluid.immersivefarming.dry_matter_fluid": "Brown Material",
+  
+  "block.immersivefarming.composter": "Индустриальный компостер",
+  "manual.immersivefarming.farming": "Фермерство",
+
+  "item.immersivefarming.plow": "Plow",
+  "item.immersivefarming.wheel": "Wheel",
+  "entity.immersivefarming.plow": "Plow",
+  "item.immersivefarming.sower": "Sowing Machine",
+  "entity.immersivefarming.sower": "Sowing Machine",
+  "key.categories.immersivefarming": "Immersive Farming",
+  "key.immersivefarming.desc": "Action Key",
+  "subtitles.immersivefarming.cart.attached": "Cart attaches",
+  "subtitles.immersivefarming.cart.detached": "Cart detaches",
+  "subtitles.immersivefarming.cart.placed": "Cart placed"
+}
